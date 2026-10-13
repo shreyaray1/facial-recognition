@@ -1,1 +1,9 @@
 haarcascade_frontalface_default.xml
+.DS_Store
+reference-photos/
+reference-faces/
+stored-faces/
+*.jpg
+*.png
+venv/
+__pycache__/
